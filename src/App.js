@@ -6,7 +6,7 @@ import NewExpense from "./components/NewExpense/NewExpense";
 const data =[
   {
     title: 'Car Insurance',
-    amt: 290,
+    amt: 90,
     date: new Date(2021, 2,28),
   },
   {
