@@ -11,7 +11,7 @@ const data =[
   },
   {
     title: 'Books',
-    amt: 20, 
+    amt: 50, 
     date: new Date(2021, 2,12),
   },
   {
